@@ -52,6 +52,6 @@ Per le città multicap in assenza di un CAP valido in input viene restituito il 
   - 25/05/2020 Riorganizzazione cap della provincia di Milano
   - 07/12/2020 Soppressione comune di Monteciccardo
   - 25/08/2021 Creazione comune di Misiliscemi (TP) e cambio di provincia per Montecopiolo e Sassofeltrio
-  - 
+  
 ### Support
 Per ogni domanda o chiarimento manda una mail a supporto@streetmaster.it
